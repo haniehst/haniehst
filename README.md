@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋 I'm Hanieh
 
-<!--
-**haniehst/haniehst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Developer** with experience in building scalable, microservice-based applications. Passionate about backend development, data privacy, and high-performance solutions. I'm always eager to learn new technologies!
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Programming**
+- Python 🐍 | Java ☕
+
+### **Frameworks**
+- Django | Django Rest Framework | Play Framework
+
+### **Databases**
+- PostgreSQL | MongoDB | Elasticsearch | Redis | Amazon S3
+
+### **Development Skills**
+- Test-Driven Development (TDD) | Version Control | Testing & Debugging
+
+### **Soft Skills**
+- Problem-solving | Team Collaboration | Critical Thinking | Responsibility
+
+
+## 📫 Get in Touch
+- **LinkedIn:** [Hanieh Salmantaheri](https://www.linkedin.com/in/hanieh-salmantaheri/)
+
