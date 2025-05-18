@@ -5,10 +5,11 @@ I'm a **Software Developer** with experience in building scalable, microservice-
 ## 🚀 Tech Stack
 
 ### **Programming**
-- Python 🐍 | Java ☕
+- Python 🐍 | Java ☕ | HTML | CSS
 
-### **Frameworks**
-- Django | Django Rest Framework | Play Framework
+### **Frameworks and Libraries**
+- Django | Django Rest Framework | Play Framework | TensorFlow | PyTorch | scikit-learn 
+ 
 
 ### **Databases**
 - PostgreSQL | MongoDB | Elasticsearch | Redis | Amazon S3
