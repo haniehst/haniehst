@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Hanieh
 
-I'm a **Software Developer** with experience in building scalable, microservice-based applications. Passionate about backend development, data privacy, and high-performance solutions. I'm always eager to learn new technologies!
+With hands-on experience as a Python-focused **software developer**. Skilled in developing scalable, microservice-based applications with a strong emphasis on user data privacy and high-performance API solutions. Actively expanding technical capabilities in cloud technologies. Experienced in agile environments, with **strong problem-solving skills**, **critical thinking**, and a **collaborative mindset**. A fast learner who takes ownership, meets tight deadlines, and consistently delivers high-quality, maintainable code. I'm always eager to learn new technologies!
 
 ## 🚀 Tech Stack
 
